@@ -1,5 +1,8 @@
 function hello(){
     return "hi";
     }
-    hello();
-    
+    function add(){
+        return "add me";
+    }
+hello();
+add();
